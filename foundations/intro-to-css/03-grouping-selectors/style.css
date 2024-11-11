@@ -6,3 +6,9 @@
 .two {
   background-color: yellow;
 }
+
+.one,
+.two {
+  font-size: 28px;
+  font-size: Helvetica, Times New Roman, sans-serif;
+}
