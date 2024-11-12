@@ -2,3 +2,8 @@
   width: 300px;
   height: auto;
 }
+
+.avatar.distorded {
+  width: 200px;
+  height: 400px;
+}
