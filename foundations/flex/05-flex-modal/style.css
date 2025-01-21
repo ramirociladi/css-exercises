@@ -54,6 +54,13 @@ body {
   flex: 1;
 }
 
+.button-container {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 16px;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
