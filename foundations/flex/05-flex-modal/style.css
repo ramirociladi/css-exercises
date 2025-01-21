@@ -24,6 +24,13 @@ body {
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.2);
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 8px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
