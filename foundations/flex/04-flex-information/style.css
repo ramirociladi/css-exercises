@@ -27,7 +27,7 @@ img {
 
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
 }
 
@@ -36,6 +36,12 @@ img {
   font-weight: 900;
   margin-bottom: 32px;
   text-align: center;
+}
+
+.items {
+  display: flex;
+  gap: 52px;
+  justify-content: center;
 }
 
 .item {
