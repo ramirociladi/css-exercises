@@ -21,6 +21,11 @@ header {
   font-weight: 900;
 }
 
+.middle {
+  flex: 1;
+  display: flex;
+}
+
 .footer {
   height: 72px;
   background: #eee;
