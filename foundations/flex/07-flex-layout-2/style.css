@@ -16,6 +16,11 @@ header {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
+.header-text {
+  font-size: 32px;
+  font-weight: 900;
+}
+
 .footer {
   height: 72px;
   background: #eee;
