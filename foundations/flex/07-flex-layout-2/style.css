@@ -68,3 +68,11 @@ header {
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
   border-radius: 4px;
 }
+
+footer {
+  background: #eee;
+  padding: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
